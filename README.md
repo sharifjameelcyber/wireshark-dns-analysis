@@ -3,6 +3,10 @@
 ## Objective
 Capture and analyze DNS traffic using Wireshark.
 
+## Environment
+- macOS
+- Local network (Wi-Fi)
+
 ## Tools Used
 - Wireshark
 - macOS
